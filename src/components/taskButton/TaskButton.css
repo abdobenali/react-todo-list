@@ -1,0 +1,14 @@
+
+.task-button{
+    background-color: rgb(145, 141, 156);
+    
+    margin: 5px;
+
+    border-radius: 14px;
+    border: none;
+
+    height: 50px;
+    width: 200px;
+
+    font-weight: bold;
+}

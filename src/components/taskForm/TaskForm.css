@@ -1,0 +1,37 @@
+.form-container{
+}
+.task-form{
+
+    display: flex;
+    flex-direction: column;
+    
+}
+.task-form-input{
+    height: 50px;
+    width: 400px;
+
+    border-radius: 100px;
+    border: none;
+
+    text-align: center;
+
+    margin-bottom: 10px;
+
+    background-color: rgb(212, 255, 255);
+
+}
+.task-form-button{
+    border-radius: 100px;
+    border: none;
+
+    width: 200px;
+    height: 50px;
+
+    margin-left: 100px;
+
+    background-color: rgb(71, 127, 233);
+}
+.task-form-button:hover{
+    background-color: rgb(116, 255, 81);
+
+}
